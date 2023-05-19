@@ -1,2 +1,5 @@
-# quotes-finder-react
-quotes-finder-react
+# create react quotes app
+
+- Ninja Quotes API
+- React Router V6
+- React Authentication
